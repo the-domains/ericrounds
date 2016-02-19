@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ericrounds]]></title>
+        <description><![CDATA[ericrounds]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 16:49:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here we go!]]></title>
+            <description><![CDATA[<article><h1>Here we go!</h1><h2>Every year, new online services provide new promises for easy-to-use features and seamless integration with yada yada yada. Let's see how this service works, shall we?</h2><p>Right now, I'm creating my first post. Simple, clean interface, Not very sure what else I can do here. Text style appears only when text is selected, which makes sense. I see that I can add an image. Let's test it! Kinda sucks. I can't scale it, yet it's blurry, so it's purposefully upscaling. Hmmm… I wonder if that is for responsiveness?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db73ea9a551fbf0298c80cdc218d5f07b12cb599.png"></article>]]></description>
+            <link>undefinedhere-we-go/index.html</link>
+            <guid isPermaLink="false">d64227f5-3a59-4332-9ea8-cb63cf0275d2</guid>
+            <pubDate>Fri, 19 Feb 2016 16:49:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
